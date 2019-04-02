@@ -1,0 +1,19 @@
+i.icon{
+    font-size: 2em;
+}
+
+.ui.container.segment{
+    margin-top: 4em;
+}
+
+.ui.piled.segment{
+    z-index: 1;
+}
+
+.ui.centered.rounded.image{
+    width: 100%;
+}
+
+#delete{
+    display: inline;
+}
