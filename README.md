@@ -16,3 +16,8 @@ Built With HTML, CSS, Vanilla JS, Node.js, Semantic UI, Mongo DB, Restful Routes
 # Screenshots
 
 ![Home page screenshot](/images/Home.png)
+
+*****************************************
+
+![](/images/Show.png)
+
